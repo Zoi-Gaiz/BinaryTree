@@ -63,6 +63,14 @@ int main(void){
         insert(&tree, temp);
     }
     inorder(tree.root);//中序遍历
-    getchar(); getchar();
     return 0;
 }
+/*
+6
+1
+36
+8
+9
+11
+9
+*/
